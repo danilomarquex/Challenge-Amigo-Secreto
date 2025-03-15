@@ -14,12 +14,16 @@
 - Envio de notificações (se aplicável).
 
 ## 🔧 Como executar o projeto:
-Copiar e colar o link do deploy no seu navegador: 
-https://challenge-amigo-secreto-rose-mu.vercel.app/
+- Copiar e colar o link do deploy no seu navegador:  https://challenge-amigo-secreto-rose-mu.vercel.app/
+![image](https://github.com/user-attachments/assets/4594b7a8-7020-4009-9de2-63942d0c56b8)
 
 - Digite o nome dos seus amigos no campo "Digite um nome"
 - E depois clique em "Adicionar".
 -   Adicione quantos amigos você quiser.
-- Após isso, é só clicar em "Sortear amigo"!
+![image](https://github.com/user-attachments/assets/af848f03-ab7e-41b8-a25d-371f30fac6e7)
 
-<h2>Dev Danilo Marques(Iniciante)</h2>   
+- Após isso, é só clicar em "Sortear amigo"!
+![image](https://github.com/user-attachments/assets/8fd67872-0de4-466f-9bb2-5645c53d26ef)
+
+<h2></h2>   
+Dev Danilo Marques(Iniciante)
