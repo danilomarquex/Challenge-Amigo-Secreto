@@ -24,5 +24,21 @@ function adicionarAmigo() {
     // Limpar campo de entrada
     inputAmigos.value = "";
 
+    // Atualizar a lista na interface
+    atualizarLista();
 }
-adicionarAmigo();
+
+// função para atulizar a lista de amigos na interface
+function atualizarLista() {
+    const listaAmigos = document.getElementById('listaAmigos');
+
+    // Limpar o conteudo atual da lista
+    listaAmigos.innerHTML = ""; // excluir qualquer conteúdo anterior dentro do conteúdo da lista
+
+    // Percorrer a matriz com um loop for
+    for (let i = 0; i < amigos.length; i++) {
+    const li = document.createElement('li');
+    li.textContent = amigos[i];
+    listaAmigos.appendChild(li);
+  }
+}
